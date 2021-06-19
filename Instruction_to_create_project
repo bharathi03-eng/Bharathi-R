@@ -1,0 +1,11 @@
+1.Open eclipse ide
+2.Launch the eclipse in the desired location
+3.In the menu bar, File->New->Java project
+4.Give a title to your project and create project
+5.Right click on your folder and create new package
+6.Right click on the package and create a new class and give it a name(Camel case) and write your code
+7. Go to the location where the project folder is located and create a new text document and give it a name as "sample_input"
+8.Paste the input consisting of goodies and prices
+9. create another text document and name it as "sample_output"
+10.Run your code
+11. On giving the number of employees ,the output gets stored in the sample_output text document
